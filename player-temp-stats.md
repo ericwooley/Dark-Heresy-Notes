@@ -20,12 +20,12 @@ shanks
 
 Sam = calamity, assassin
 Raven = lucky
-josh is bones
-kaleb is constantine
+josh = bones
+kaleb = constantine
 
 ## Bonds
-Technopriest is out to murder people
-Lucky is also looked down upon/taken for granted for her small stature
+Bones psych shenanigans is going tip someone off about us.
+Techno priest is capable of hacking
 
 ## Inquisition
 Shadow orginaiztion
@@ -45,6 +45,7 @@ Talked in person once right after training
     was very uncomfortable
     brief/short
 Formed us into acolyte squad
+Likes having things given too him
 
 ### Herasy
 Puritan
@@ -88,7 +89,7 @@ House Tefain
     Seat of power guy: Morrison Viola
 
 ###### Commisioner Roner Quint
-hangs with  colonel Raymond Tront
+hangs with colonel Raymond Tront
 Marshal law, can execute people
 well known and liked, has friends
 blatantly hates inquisition
@@ -102,3 +103,18 @@ Hated zenos creatures
 Think bugs from starship troopers
 Collect genetic matter (ground, water, anything)
     Pumps it into birthing chamber to create more creatures
+
+## Concerning spriritual voicemail
+
+
+## Short range voxes
+
+## Guardsman
+    are mentally ill, in bursts
+    are not the same as arbitas
+
+## CLue of the century
+* Every time a squid was crushed. A little snuff out of life happened in the form of a psychic being dying.
+* 3 things standing - still have something alive in them.
+* Whatever went down the whole could not be detected until it used a very powerful psychic communication. Sense presence detected it then.
+* Tyranid hive structure, if something has psychic ability, it can usually reproduce.
