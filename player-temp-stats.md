@@ -118,3 +118,25 @@ Collect genetic matter (ground, water, anything)
 * 3 things standing - still have something alive in them.
 * Whatever went down the whole could not be detected until it used a very powerful psychic communication. Sense presence detected it then.
 * Tyranid hive structure, if something has psychic ability, it can usually reproduce.
+
+## Rida Waln
+Arbitas Marshall of the outpost
+Reporting to technopriest that invasion is going well
+during outbreak of demon things
+
+
+## Lerium
+what they are mining
+mines themselves go significantly deeper than they were meant to go. 4x - 6x deeper
+
+
+## Roirk
+Person involved procurement and selling of specimens.
+
+## Laura Tront
+Brain dead
+Daughter of raymond traunt
+no indications that family member is here
+some form of disease or bad brain disfunction
+
+## Written down
